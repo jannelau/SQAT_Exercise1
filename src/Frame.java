@@ -26,8 +26,7 @@ public class Frame {
 		//to be implemented
 		if (firstThrow == 10){
 			
-		}
-		return false;
+		}else{return false;}
 	}
 	
 	//return whether a frame is a spare or not
