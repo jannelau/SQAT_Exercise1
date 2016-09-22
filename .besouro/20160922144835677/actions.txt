@@ -177,3 +177,13 @@ CompilationAction 1474551560781 TestBowling.java
 EditAction 1474551584402 Frame.java 798 6 7 0
 CompilationAction 1474551584593 TestBowling.java
 EditAction 1474551679694 BowlingGame.java 762 4 1 0
+CompilationAction 1474551679896 BowlingGame.java
+RefactoringAction 1474551694549 BowlingGame.java ADD bool GameOver FIELD
+CompilationAction 1474551723547 BowlingGame.java
+CompilationAction 1474551723711 BowlingGame.java
+CompilationAction 1474551723711 TestBowling.java
+CompilationAction 1474551729715 BowlingGame.java
+RefactoringAction 1474551850274 BowlingGame.java ADD void checkGameEnded() METHOD
+RefactoringAction 1474551854796 BowlingGame.java REMOVE checkGameEnded() METHOD
+RefactoringAction 1474551856337 BowlingGame.java ADD void checkGameEnded() METHOD
+EditAction 1474551881956 BowlingGame.java 1008 5 3 0

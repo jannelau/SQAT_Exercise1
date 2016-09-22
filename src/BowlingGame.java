@@ -9,6 +9,7 @@ public class BowlingGame {
 	private List<Frame> frames = new ArrayList<Frame>();
 	private Frame bonus;
 	public int score;
+	public boolean GameOver = false;
 	
 	public BowlingGame(){}
 	
@@ -27,10 +28,16 @@ public class BowlingGame {
 	// Returns the game score
 	public int score() throws BowlingException {
 		//to be implemented: should return game score 
-		if (){
+		if (GameOver){
 			throw new BowlingException();
 		}else{
 		return score;
 		}
+	}
+	private void checkGameEnded() {
+		if (player1Points>=4 && player1Points-player2Points>=2)
+			GameOver = true;
+		else if (player2Points>=4 && player2Points-player1Points>=2)
+			GameOver = true;
 	}
 }
