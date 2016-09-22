@@ -14,6 +14,7 @@ public class TestBowling {
 		
 		bowl.score();
 		fail("Not yet implemented");
+		assertEquals("Tie score incorrect", 0, score);
 	}
 
 }
