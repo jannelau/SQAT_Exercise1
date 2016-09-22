@@ -8,7 +8,9 @@ public class TestBowling {
 	public void FirstScoreTest() {
 		BowlingGame bowl = new BowlingGame();
 		Frame frame1 = new Frame(1,1);
-		bowl.addFrame(frame);
+		bowl.addFrame(frame1);
+		Frame frame2 = new Frame(8,1);
+		bowl.addFrame(frame2);
 		
 		bowl.score();
 		fail("Not yet implemented");
