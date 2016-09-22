@@ -7,11 +7,11 @@ public class Frame {
 		this.secondThrow = secondThrow;
 	}
 	
-	public int getFirstThrow() {
+	public int getFirstThrow() throws BowlingException {
 		return firstThrow;
 	}
 
-	public int getSecondThrow() {
+	public int getSecondThrow() throws BowlingException {
 		return secondThrow;
 	}
 
@@ -22,7 +22,7 @@ public class Frame {
 	}
 
 	//returns whether the frame is a strike or not
-	public boolean isStrike(){
+	public boolean isStrike() throws BowlingException {
 
 		if (firstThrow == 10){
 			return true;
@@ -30,7 +30,7 @@ public class Frame {
 	}
 	
 	//return whether a frame is a spare or not
-	public boolean isSpare(){
+	public boolean isSpare() throws BowlingException {
 		//to be implemented
 		return false;
 	}

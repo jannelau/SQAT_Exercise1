@@ -173,3 +173,5 @@ RefactoringAction 1474551452054 TestBowling.java RENAME FirstFrameAddScoreTest()
 EditAction 1474551453083 TestBowling.java 565 3 8 1
 EditAction 1474551470337 Frame.java 700 6 7 0
 EditAction 1474551560561 BowlingGame.java 703 4 2 0
+CompilationAction 1474551560781 TestBowling.java
+EditAction 1474551584402 Frame.java 798 6 7 0
