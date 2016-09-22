@@ -18,14 +18,14 @@ public class BowlingGame {
 	}
 	
 	// Sets the bonus throws at the end of the game
-	public void setBonus(int firstThrow, int secondThrow) {
+	public void setBonus(int firstThrow, int secondThrow)throws BowlingException {
 		//if (isStrike){
 			
 		//}
 	}
 	
 	// Returns the game score
-	public int score(){
+	public int score() throws BowlingException {
 		//to be implemented: should return game score 
 		return score;
 	}
