@@ -116,3 +116,5 @@ RefactoringAction 1474549996304 BowlingGame.java ADD Private Frame FIELD
 RefactoringAction 1474550000325 BowlingGame.java REMOVE Frame FIELD
 RefactoringAction 1474550003839 BowlingGame.java ADD Frame frame FIELD
 EditAction 1474550009264 BowlingGame.java 669 4 2 0
+CompilationAction 1474550009498 TestBowling.java
+EditAction 1474550101102 TestBowling.java 250 1 3 0
