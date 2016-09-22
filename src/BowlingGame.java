@@ -13,7 +13,7 @@ public class BowlingGame {
 	public BowlingGame(){}
 	
 	// adds a frame to the game
-	public void addFrame(){
+	public void addFrame(Frame frame){
 
 	}
 	
