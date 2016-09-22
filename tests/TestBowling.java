@@ -22,5 +22,9 @@ public class TestBowling {
 		bowl.score();
 		assertEquals("Score not even implemented yet", 2, bowl.score);
 	}
-
+	@Test
+	//testing my bad coding
+	public void StrikeTest(){
+		
+	}
 }

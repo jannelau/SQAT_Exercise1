@@ -168,3 +168,6 @@ CompilationAction 1474551370075 BowlingGame.java
 EditAction 1474551403751 Frame.java 709 6 7 0
 CompilationAction 1474551403905 Frame.java
 EditAction 1474551419417 Frame.java 721 6 7 0
+RefactoringAction 1474551442512 TestBowling.java ADD void FirstFrameAddScoreTest()/2 METHOD
+RefactoringAction 1474551452054 TestBowling.java RENAME FirstFrameAddScoreTest()/2=>void StrikeTest() METHOD
+EditAction 1474551453083 TestBowling.java 565 3 8 1
