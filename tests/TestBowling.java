@@ -5,7 +5,13 @@ import org.junit.Test;
 public class TestBowling {
 
 	@Test
-	//testing my bad coding
+	public void Test() {
+
+		fail("Not yet implemented");
+	}
+	
+	@Test
+	//testing my bas coding
 	public void FirstFrameAddScoreTest() {
 		BowlingGame bowl = new BowlingGame();
 		Frame frame1 = new Frame(5,2);
@@ -15,10 +21,6 @@ public class TestBowling {
 		
 		bowl.score();
 		assertEquals("Score wrong", 2, bowl.score);
-	}
-	@test
-	public void fail(){
-		fail("It's a fail");
 	}
 
 }
