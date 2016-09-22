@@ -8,7 +8,7 @@ public class TestBowling {
 	public void ScoreTest() {
 		BowlingGame bowl = new BowlingGame();
 		bowl.addFrame(1,1);
-		bowl.addFrame(frame);
+		bowl.score();
 		//fail("Not yet implemented");
 	}
 
