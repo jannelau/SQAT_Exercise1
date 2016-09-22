@@ -5,7 +5,7 @@ import org.junit.Test;
 public class TestBowling {
 
 	@Test
-	public void FirstScoreTest() {
+	public void FirstFrameAddScoreTest() {
 		BowlingGame bowl = new BowlingGame();
 		Frame frame1 = new Frame(5,2);
 		bowl.addFrame(frame1);
