@@ -6,7 +6,8 @@ public class TestBowling {
 
 	@Test
 	public void ScoreTest() {
-		fail("Not yet implemented");
+		BowlingGame bowl = new BowlingGame;
+		//fail("Not yet implemented");
 	}
 
 }
