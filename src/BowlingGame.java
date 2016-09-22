@@ -1,8 +1,8 @@
 import java.util.ArrayList;
 import java.util.List;
 
-//Finish time:
-//ID:
+//Finish time: 1650
+//ID: 127
 
 public class BowlingGame {
 	//a bowling game is made of (at least) 10 frames
@@ -16,6 +16,12 @@ public class BowlingGame {
 	// adds a frame to the game
 	public void addFrame(Frame frame){
 		frames.add(frame);
+	}
+	private void checkGameEnded() {
+		if (score == 300)
+			GameOver = true;
+		else{
+			GameOver = true;}
 	}
 	
 	// Sets the bonus throws at the end of the game
@@ -31,13 +37,10 @@ public class BowlingGame {
 		if (GameOver){
 			throw new BowlingException();
 		}else{
+		checkGameEnded();
 		return score;
+
 		}
 	}
-	private void checkGameEnded() {
-		if (player1Points>=4 && player1Points-player2Points>=2)
-			GameOver = true;
-		else if (player2Points>=4 && player2Points-player1Points>=2)
-			GameOver = true;
-	}
+
 }

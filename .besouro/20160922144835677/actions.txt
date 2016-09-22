@@ -187,3 +187,29 @@ RefactoringAction 1474551850274 BowlingGame.java ADD void checkGameEnded() METHO
 RefactoringAction 1474551854796 BowlingGame.java REMOVE checkGameEnded() METHOD
 RefactoringAction 1474551856337 BowlingGame.java ADD void checkGameEnded() METHOD
 EditAction 1474551881956 BowlingGame.java 1008 5 3 0
+CompilationAction 1474551882139 BowlingGame.java
+CompilationAction 1474551882140 BowlingGame.java
+CompilationAction 1474551882140 TestBowling.java
+CompilationAction 1474551903021 BowlingGame.java
+CompilationAction 1474551903021 BowlingGame.java
+CompilationAction 1474551903193 BowlingGame.java
+CompilationAction 1474551903194 BowlingGame.java
+CompilationAction 1474551903194 BowlingGame.java
+RefactoringAction 1474551915604 BowlingGame.java REMOVE checkGameEnded() METHOD
+RefactoringAction 1474551927628 BowlingGame.java ADD void checkGameEnded() METHOD
+CompilationAction 1474551932513 BowlingGame.java
+CompilationAction 1474551932672 BowlingGame.java
+CompilationAction 1474551932673 BowlingGame.java
+CompilationAction 1474551932673 BowlingGame.java
+CompilationAction 1474551979124 BowlingGame.java
+CompilationAction 1474551979124 BowlingGame.java
+CompilationAction 1474551979125 BowlingGame.java
+CompilationAction 1474551979289 BowlingGame.java
+CompilationAction 1474551979290 BowlingGame.java
+CompilationAction 1474551979290 BowlingGame.java
+CompilationAction 1474551979291 BowlingGame.java
+CompilationAction 1474552004824 BowlingGame.java
+CompilationAction 1474552004824 BowlingGame.java
+CompilationAction 1474552004978 BowlingGame.java
+CompilationAction 1474552026422 BowlingGame.java
+CompilationAction 1474552099527 TestBowling.java
