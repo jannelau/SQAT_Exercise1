@@ -7,9 +7,10 @@ public class TestBowling {
 	@Test
 	public void ScoreTest() {
 		BowlingGame bowl = new BowlingGame();
-		bowl.addFrame();
+		Frame frame = new Frame(1,1);
+		bowl.addFrame(frame);
 		bowl.score();
-		//fail("Not yet implemented");
+		fail("Not yet implemented");
 	}
 
 }

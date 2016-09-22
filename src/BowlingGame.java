@@ -9,7 +9,6 @@ public class BowlingGame {
 	private List<Frame> frames = new ArrayList<Frame>();
 	private Frame bonus;
 	public int score;
-	private Frame frame;
 	
 	public BowlingGame(){}
 	
