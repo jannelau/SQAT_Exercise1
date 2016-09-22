@@ -71,3 +71,4 @@ EditAction 1474548725488 BowlingGame.java 626 4 1 0
 CompilationAction 1474548725706 TestBowling.java
 RefactoringAction 1474548789673 BowlingGame.java RENAME addFrame(Frame)=>void addFrame() METHOD
 EditAction 1474548826180 BowlingGame.java 654 4 2 0
+EditAction 1474548834735 TestBowling.java 238 1 2 0
