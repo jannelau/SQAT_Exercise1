@@ -30,3 +30,5 @@ RefactoringAction 1474547055553 BowlingGame.java RENAME bonus()=>Frame bonus FIE
 CompilationAction 1474547055846 BowlingGame.java
 EditAction 1474547088636 BowlingGame.java 620 4 2 0
 EditAction 1474547146567 BowlingGame.java 630 4 2 0
+RefactoringAction 1474547399413 BowlingGame.java ADD int score FIELD
+EditAction 1474547417487 BowlingGame.java 654 4 2 0
