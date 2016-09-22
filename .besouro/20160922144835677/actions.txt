@@ -36,3 +36,5 @@ RefactoringAction 1474548045588 TestBowling.java RENAME test()=>void Score() MET
 RefactoringAction 1474548048596 TestBowling.java RENAME Score()=>void ScoreTest() METHOD
 EditAction 1474548048912 TestBowling.java 170 1 1 0
 EditAction 1474548203273 TestBowling.java 211 1 0 0
+CompilationAction 1474548203437 TestBowling.java
+EditAction 1474548272301 TestBowling.java 236 1 2 0
