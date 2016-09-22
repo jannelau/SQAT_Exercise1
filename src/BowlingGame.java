@@ -27,6 +27,10 @@ public class BowlingGame {
 	// Returns the game score
 	public int score() throws BowlingException {
 		//to be implemented: should return game score 
+		if (){
+			throw new BowlingException();
+		}else{
 		return score;
+		}
 	}
 }
