@@ -21,7 +21,7 @@ public class BowlingGame {
 		if (score == 300)
 			GameOver = true;
 		else{
-			GameOver = true;}
+			GameOver = false;}
 	}
 	
 	// Sets the bonus throws at the end of the game
