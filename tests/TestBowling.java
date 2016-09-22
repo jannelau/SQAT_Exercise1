@@ -20,7 +20,7 @@ public class TestBowling {
 		bowl.addFrame(frame2);
 		
 		bowl.score();
-		assertEquals("Score wrong", 2, bowl.score);
+		assertEquals("Score not even implemented yet", 2, bowl.score);
 	}
 
 }

@@ -153,3 +153,6 @@ CompilationAction 1474550678111 TestBowling.java
 RefactoringAction 1474550686704 TestBowling.java RENAME FirstScoreTest()=>void Test() METHOD
 EditAction 1474550704966 TestBowling.java 478 2 8 1
 EditAction 1474550719434 TestBowling.java 478 2 8 1
+UnitTestCaseAction 1474550719881 TestBowling.java FAIL
+UnitTestSessionAction 1474550719882 TestBowling.java FAIL
+EditAction 1474550760836 TestBowling.java 497 2 8 1
