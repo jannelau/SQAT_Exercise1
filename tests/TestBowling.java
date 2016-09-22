@@ -5,7 +5,7 @@ import org.junit.Test;
 public class TestBowling {
 
 	@Test
-	public void test() {
+	public void ScoreTest() {
 		fail("Not yet implemented");
 	}
 
