@@ -171,3 +171,4 @@ EditAction 1474551419417 Frame.java 721 6 7 0
 RefactoringAction 1474551442512 TestBowling.java ADD void FirstFrameAddScoreTest()/2 METHOD
 RefactoringAction 1474551452054 TestBowling.java RENAME FirstFrameAddScoreTest()/2=>void StrikeTest() METHOD
 EditAction 1474551453083 TestBowling.java 565 3 8 1
+EditAction 1474551470337 Frame.java 700 6 7 0
