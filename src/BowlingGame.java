@@ -15,6 +15,7 @@ public class BowlingGame {
 	// adds a frame to the game
 	public void addFrame(Frame frame) throws BowlingException{
 		Frame f = new Frame(0,0);
+		Frame.firstThrow =0 ;
 	}
 	
 	// Sets the bonus throws at the end of the game
