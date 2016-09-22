@@ -11,10 +11,9 @@ public class BowlingGame {
 	public int score;
 	
 	public BowlingGame(){}
-	
 	// adds a frame to the game
 	public void addFrame(Frame frame){
-		this.Frame = new Frame (0,0);
+		this.frame = new Frame (0,0);
 	}
 	
 	// Sets the bonus throws at the end of the game
