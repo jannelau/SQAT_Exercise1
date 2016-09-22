@@ -16,5 +16,9 @@ public class TestBowling {
 		bowl.score();
 		assertEquals("Score wrong", 2, bowl.score);
 	}
+	@test
+	public void fail(){
+		fail("It's a fail");
+	}
 
 }
