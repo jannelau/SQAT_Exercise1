@@ -7,7 +7,7 @@ public class TestBowling {
 	@Test
 	public void FirstScoreTest() {
 		BowlingGame bowl = new BowlingGame();
-		Frame frame1 = new Frame(1,1);
+		Frame frame1 = new Frame(5,2);
 		bowl.addFrame(frame1);
 		Frame frame2 = new Frame(8,1);
 		bowl.addFrame(frame2);
