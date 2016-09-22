@@ -13,8 +13,7 @@ public class TestBowling {
 		bowl.addFrame(frame2);
 		
 		bowl.score();
-		fail("Not yet implemented");
-		assertEquals("Tie score incorrect", 0, score);
+		assertEquals("Score wrong", 2, bowl.score);
 	}
 
 }
