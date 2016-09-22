@@ -13,3 +13,19 @@ EditAction 1474545634861 BowlingGame.java 719 4 1 0
 EditAction 1474545782634 BowlingGame.java 726 4 2 0
 EditAction 1474546024650 BowlingGame.java 725 4 2 0
 EditAction 1474546221740 BowlingGame.java 750 4 3 0
+CompilationAction 1474546221998 BowlingGame.java
+CompilationAction 1474546255335 BowlingGame.java
+CompilationAction 1474546851995 BowlingGame.java
+RefactoringAction 1474546869229 BowlingGame.java RENAME score=>int scor FIELD
+RefactoringAction 1474546872247 BowlingGame.java RENAME scor=>int score FIELD
+CompilationAction 1474546873226 BowlingGame.java
+CompilationAction 1474546873404 BowlingGame.java
+RefactoringAction 1474546925856 BowlingGame.java REMOVE score FIELD
+RefactoringAction 1474546930870 BowlingGame.java ADD int score FIELD
+RefactoringAction 1474547005420 BowlingGame.java REMOVE score FIELD
+RefactoringAction 1474547015936 BowlingGame.java RENAME bonus=>Frame bonus() METHOD
+RefactoringAction 1474547040496 BowlingGame.java RENAME bonus()=>Frame bonus FIELD
+RefactoringAction 1474547051521 BowlingGame.java RENAME bonus=>Frame bonus() METHOD
+RefactoringAction 1474547055553 BowlingGame.java RENAME bonus()=>Frame bonus FIELD
+CompilationAction 1474547055846 BowlingGame.java
+EditAction 1474547088636 BowlingGame.java 620 4 2 0
