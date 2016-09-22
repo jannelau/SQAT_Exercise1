@@ -11,7 +11,7 @@ public class TestBowling {
 	}
 	
 	@Test
-	//testing my bas coding
+	//testing my bad coding
 	public void FirstFrameAddScoreTest() {
 		BowlingGame bowl = new BowlingGame();
 		Frame frame1 = new Frame(5,2);

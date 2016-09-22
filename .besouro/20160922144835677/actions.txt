@@ -152,3 +152,4 @@ RefactoringAction 1474550677679 TestBowling.java ADD void FirstFrameAddScoreTest
 CompilationAction 1474550678111 TestBowling.java
 RefactoringAction 1474550686704 TestBowling.java RENAME FirstScoreTest()=>void Test() METHOD
 EditAction 1474550704966 TestBowling.java 478 2 8 1
+EditAction 1474550719434 TestBowling.java 478 2 8 1
